@@ -1,0 +1,9 @@
+food_list=[
+    'DOSA',
+    'CHAAT',
+    'GOLGAPPE',
+    'VADA',
+    'IDLY',
+    'SAMOSA',
+    'BAJJI',
+    ]
