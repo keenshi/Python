@@ -49,4 +49,8 @@ food_list=[
     'castle',
     'album',
     'deserve',
+<<<<<<< HEAD
     ]
+=======
+    ]
+>>>>>>> 7507a53625df4545a3c9da82be4d6516852b6cd0
