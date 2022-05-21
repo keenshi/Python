@@ -2,7 +2,7 @@
 Creating real life applications using python and it's applications. </br>
 Please do open the respective project folder to have a look at it. </br>
 You could open the readme file info about the project. </br>
-Concepts such as: </br>
+Topics such as: </br>
 - Strings </br>
 - Lists </br>
 - Dictionaries</br>
@@ -22,5 +22,5 @@ Concepts such as: </br>
 - Polymorphism</br>
 - File I/O</br>
 - Advanced Methods</br>
-- Unit Tests were learned before stating these projects.
+- Unit Tests, were learned before stating these projects.
 
